@@ -1,0 +1,26 @@
+.detail-container {
+  margin-top: 20px;
+  height: 88vh;
+  background-image: url('../assets/back.jpg');
+  color: rgb(85, 197, 188);
+}
+
+.detail-main {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.detail-main h6 {
+  padding-top: 20px;
+}
+
+.detail-main button {
+  margin-top: 20px;
+  background-color: rgb(85, 197, 188);
+}
+
+.detail-main button:hover {
+  background-color: rgb(93, 216, 206);
+}
